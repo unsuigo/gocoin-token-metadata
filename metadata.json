@@ -1,0 +1,7 @@
+{
+  "name": "GoCoin",
+  "symbol": "GOC",
+  "uri": "https://example.com/metadata.json", // Замените на ссылку на хостинг метаданных
+  "seller_fee_basis_points": 500,
+  "creators": null
+}
