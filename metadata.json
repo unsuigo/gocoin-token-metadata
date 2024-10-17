@@ -1,7 +1,7 @@
 {
   "name": "GoCoin",
   "symbol": "GOC",
-  "uri": "https://example.com/metadata.json", // Замените на ссылку на хостинг метаданных
+  "uri": "https://github.com/unsuigo/gocoin-token-metadata/blob/main/metadata.json", 
   "seller_fee_basis_points": 500,
   "creators": null
 }
