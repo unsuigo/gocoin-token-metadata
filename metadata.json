@@ -1,7 +1,14 @@
 {
   "name": "GoCoin",
   "symbol": "GOC",
-  "uri": "https://unsuigo.github.io/gocoin-token-metadata/metadata.json", 
+  "uri": "https://unsuigo.github.io/gocoin-token-metadata/metadata.json",
   "seller_fee_basis_points": 500,
-  "creators": null
+  "creators": [
+    {
+      "address": "unsuigo",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
+
