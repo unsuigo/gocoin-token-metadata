@@ -1,6 +1,6 @@
 {
-  "name": "GoCoin",
-  "symbol": "GOC",
+  "name": "UnsuiGoToken",
+  "symbol": "UGOT",
   "uri": "https://unsuigo.github.io/gocoin-token-metadata/metadata.json",
   "seller_fee_basis_points": 500,
   "creators": [
